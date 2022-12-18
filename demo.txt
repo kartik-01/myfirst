@@ -1,6 +1,4 @@
 Demo file
 
 hello
-hi
-noob
-lol
+
